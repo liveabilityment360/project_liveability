@@ -1,0 +1,16 @@
+Category,STRING
+Name,STRING
+Address,STRING
+Suburb,STRING
+State,STRING
+Postcode,STRING
+Phone,STRING
+Fax,STRING
+Email,STRING
+Website,STRING
+Staff,STRING
+Established,STRING
+ABN,STRING
+ABN_Status,STRING
+ABN_Type,STRING
+ABN_Accuracy,STRING
