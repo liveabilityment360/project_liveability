@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "liveability-dataflowdemo",
+  "private_key_id": "07e5650cee4eecb7bf4af04b2e9fcb2313d998da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3Ho1AFALQ8vpx\n1Vh3DJHl+MHAfnsRID5EtydgEEmDQwwriKU7W5gLtA6sR0ECqi8Se0VMLgSvyHzI\ncRuxjHG8AhlEb+aEFR461II1+wWBaZRYd5ivZTJIvX9U8Q/UtVdRjBKwlGCZiUNT\nNl4YQRLjb0ybqdMtvor5rOg+kQbAZOZSrNBjtTI49gLOdfnmIXDZA+T2FbZ7iS2B\nk6dZyGCtt2ERG6QMitpQ717kA2Rk39cw5CZ0kmnNDpLW/DM1A7lEXKwdnhnMl+1W\nFgjZ9faXFtL7EhPR2tobEDv4wQ3+ShTodUr3iODHS/nNLR4L0NCUpO7UeGjtrvSg\nkS+owFntAgMBAAECggEAA6L2MCcVlTu2EIupmZek0BncEywP2pu20NuISyaXpyUu\nOTEaAu9DOjxFrFMv7dMeYzISgrxJOIp1O+/PGnwNCCxMfyjvvYDD3Gw698J37gWA\nPi+F1zndwUcOH8w3wcQmK0bqWhpgPrxUm3LxdG7aZqzfqxm4yWhGz0WJSTDNHwX5\nU8jlPwtf5t77v/uW5Ch0/OqP8hXBeF4N3Do9nAeUzPTYFUULctr3Jx1txJhXftt5\nbXoZGcyH8LurMjsivixsx7j0qK2effPX46y+2nFyzJHTp8ydGbaa+OMXocBeJNx9\nKi519UhfKhZNO5ZF9NQcLPEA16t8LfvEsWdaa5mdQQKBgQDopUgKzad5+p8CSedn\nhlz9GIht5IT+DBU/D7vQ3yADovbwHjElTG5g8/Y3jfWtrqt+iW53hd/+xTfIhnlz\n6lGbaMA3q8Hxdq9XhEmOqU+pR/0GRPz1stAIMBI4R9+9jcj1ZUyJNeEe7jxHox+q\nJ5mZoLCcgXErPvGV+yU3p1ZNzQKBgQDJgIDLf7RuI5yb0OgX4dA5pzJrb0Bb9sZm\nkhTYfcRtELj1f+wGlrk9Qbb9CrKG+Uil9x3X3Y73ORcGhfJgnsAXVn/1DsTQyq4Z\nZ9nyCgmvKWihac9PbXvJEW8DOtzPjvdVFBl8Rlw8fvstODam6gFRsYjFdLJ+mTY0\na8fcR9McoQKBgQCslgCt0wbNHLldT0oVqL3PHKYJMB/g/0G7uIZSW1Q6nmimlR9M\nVjkEP7eGWw/Iuu2KP5XtoSkcrV3GqsvqzAeiTMFcC1UjNjK5r++Jn9zy7e6s+fzW\noMJncJHzoo4+5rIQKgfvOkM5WO7rDf5tklcGewjJ8dTsihNaeieP89m4eQKBgFW7\noxDyaOZjqIJzRAzFOz8McFtdnliCiq+hf9UMzcJJ1yg9IUM8Zdw2VZEcOBFNhyd2\nGPB7iBSP6cgQvat2X+yOFStC+WKMmb6dfRGKS8yHJclnp5j30C8gh8csCD8XaQx9\n3MoPdbcXn+8Bd99UuPL1Qmgg2sEalwF+yi5jMOOBAoGAHgMrqo2wADqw1n5y+uud\nKJ93kEx1nlQq0BrZB3QPqr5E/ac9MTH7IGyC9/p+C//6Eg5vvtanqlMBnSy5nTIy\niY8yupJOjaaBQW1bjvCZ9+MuzmzAqN+psfxu+bA3OgsOrET3Acxlh1CB8krK6GY3\nBxjw2Ki9O8ucYkc8TFHCqCM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "liveabilit-projowner@liveability-dataflowdemo.iam.gserviceaccount.com",
+  "client_id": "115154270282283000347",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/liveabilit-projowner%40liveability-dataflowdemo.iam.gserviceaccount.com"
+}
