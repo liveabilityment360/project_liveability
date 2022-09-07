@@ -1,7 +1,7 @@
 # CloudSQL MySQL instance creation point-in-time-recovery.
 resource "google_sql_database_instance" "liveability-mysql" {
   name             = "liveability-appsheet-mysql"
-  region           = "us-central1"
+  region           = "us-west1"
   database_version = "MYSQL_8_0"
   settings {
     #tier = "db-f1-micro"
