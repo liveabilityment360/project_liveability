@@ -199,30 +199,30 @@ resource "google_sql_database_instance" "liveability-mysql" {
       }
       # [END cloud_sql_mysql_instance_authorized_network]
       
-      # [START cloud_sql_mysql_instance_datastream]
+       # [START cloud_sql_mysql_instance_datastream]
       authorized_networks {
-        name = "Datastream_US_Central1_01"
-        value = "34.72.28.29"
+        name = "Datastream_US_West1_01"
+        value = "35.247.10.221"
         expiration_time = "3021-11-15T16:19:00.094Z"
       }
       authorized_networks {
-        name = "Datastream_US_Central1_02"
-        value = "34.67.234.134"
+        name = "Datastream_US_West1_02"
+        value = "35.233.208.195"
         expiration_time = "3021-11-15T16:19:00.094Z"
       }
       authorized_networks {
-        name = "Datastream_US_Central1_03"
-        value = "34.67.6.157"
+        name = "Datastream_US_West1_03"
+        value = "34.82.253.59"
         expiration_time = "3021-11-15T16:19:00.094Z"
       }
       authorized_networks {
-        name = "Datastream_US_Central1_04"
-        value = "34.72.239.218"
+        name = "Datastream_US_West1_04"
+        value = "35.247.95.52"
         expiration_time = "3021-11-15T16:19:00.094Z"
       }
       authorized_networks {
-        name = "Datastream_US_Central1_05"
-        value = "34.71.242.81"
+        name = "Datastream_US_West1_05"
+        value = "34.82.254.46"
         expiration_time = "3021-11-15T16:19:00.094Z"
       }
       # [END cloud_sql_mysql_instance_datastream]
