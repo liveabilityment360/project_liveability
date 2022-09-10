@@ -15,7 +15,7 @@ with transform_restaurants as (
         ,SAFE_CAST(Latitude as FLOAT64) as Latitude
         ,SAFE_CAST(Longitude as FLOAT64) as Longitude
         ,ST_GeogPoint(SAFE_CAST(Longitude as FLOAT64),SAFE_CAST(Latitude as FLOAT64)) as Location 
-    from liveability-demo.batchdata.restaurants
+    from ment360-liveability-alpha.liveability.restaurants
 )
 
 select * from transform_restaurants
