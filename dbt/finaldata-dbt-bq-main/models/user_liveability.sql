@@ -7,7 +7,7 @@ WITH users_liveability AS (
   	      ,RANK() over (
   		   ORDER BY ui2.created_date DESC
   		   ) AS rank_no2 
-  	FROM `streamdata.user_input` ui2
+  	FROM `ment360-liveability-alpha.liveability.user_activity` ui2
   )
   
   SELECT * FROM (
@@ -88,7 +88,7 @@ WITH users_liveability AS (
   			  ,RANK() OVER (
   				 ORDER BY ui1.created_date DESC
        		   ) AS rank_no1
-  	    FROM `streamdata.user_input` ui1
+  	    FROM `streamdata.user_activity` ui1
   	)	
   	SELECT location.Postcode
   	  FROM location
