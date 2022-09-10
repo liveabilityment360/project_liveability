@@ -14,7 +14,7 @@ with transform_child_care_centre as (
         ,SAFE_CAST(Latitude as FLOAT64) as Latitude
         ,SAFE_CAST(Longitude as FLOAT64) as Longitude
         ,ST_GeogPoint(SAFE_CAST(Longitude as FLOAT64),SAFE_CAST(Latitude as FLOAT64)) as Location
-    from liveability-demo.batchdata.childcarecenters
+    from ment360-liveability-alpha.liveability.childcarecenters
 )
 
 select * from transform_child_care_centre
